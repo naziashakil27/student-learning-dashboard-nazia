@@ -1,0 +1,6 @@
+{
+  "name": "Student Learning Dashboard",
+  "description": "Futuristic dark-themed student masteries dashboard featuring real-time course configurations, and custom GitHub-style activity heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
