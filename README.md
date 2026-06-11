@@ -1,5 +1,10 @@
 # Nova Learn — Student Learning Dashboard
 
+![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel)
+![Built with React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwindcss)
+
 > A premium, dark-themed learning dashboard built to feel like a real SaaS product. Track courses, log study streaks, visualize progress, and manage your entire learning journey — all in one place.
 
 **Live Demo:** https://student-learning-dashboard-naziawork27-9979s-projects.vercel.app
